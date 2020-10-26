@@ -5,6 +5,7 @@
 - HTML
 - Editor de texto Visual Studio Code
 - Responsividade
+- Owl Carousel
 
 
 Nesse projeto eu fiz um clone front-end do site do Netflix:
