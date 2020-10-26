@@ -1,0 +1,17 @@
+@media screen and (max-width:700px){
+    header .container{
+        display: flex;
+        /*joga as colunas do nav para baixo e ficam centralizados quando voce diminui a tela*/
+        flex-direction: column;
+    }
+    .botao{
+        margin-top: 5px;
+        height: 50px;
+    }    
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }    
+}
