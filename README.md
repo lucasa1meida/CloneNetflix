@@ -3,6 +3,7 @@
 ### Tecnologias Usadas:
 - CSS
 - HTML
+- Java Script
 - Editor de texto Visual Studio Code
 - Responsividade
 - Owl Carousel
