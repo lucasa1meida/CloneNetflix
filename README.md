@@ -9,7 +9,7 @@
 - Owl Carousel
 
 
-Nesse projeto eu fizemos um clone front-end do site do Netflix:
+Nesse projeto fizemos um clone front-end do site do Netflix:
 <img src="https://i.imgur.com/dKocHu9.jpg">
 
 Mostrando a responsividade:
